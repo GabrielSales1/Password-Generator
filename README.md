@@ -9,8 +9,8 @@ Este é um projeto simples de gerador de senhas em HTML,CSS E JAVASCRIPT VANILLA
 - Personalize a senha incluindo letras maiúsculas, letras minúsculas, números e caracteres especiais.
 - Possibilidade de gerar várias senhas de uma só vez.
 
-  <h1>Licença</h1>
+<h1>Licença</h1>
 Este projeto é distribuído sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
 
 <h1>Contato</h1>
-Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato com o autor em seu e-mail: seu-email@email.com
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato, meu e-mail: <strong>gabrielsalesaraujo12@gmail.com</strong>
